@@ -7,7 +7,7 @@
 
 #define SHMKEY 859047
 #define BUFF_SZ sizeof(int)
-
+//2
 void parent();
 void child();
 
